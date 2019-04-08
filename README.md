@@ -16,7 +16,7 @@ C'est l'administateur du site qui controlle tout. En effet celui-ci à accès à
 
 Nous nous sommes donc dans un premier temps intéressés à la pagination des pages du menu "LIVRE". On remarque sur l'image ci-dessous une numérotation des pages réalisées en php.
 
-![](https://image.noelshack.com/fichiers/2019/15/1/1554749033-capture3.png)
+![](https://image.noelshack.com/fichiers/2019/15/1/1554749036-capture4.png)
 
 Ensuite, nous avons cherché à ajouter la fonctionnalité de pouvoir créer de nouveaux livres et de les insérer dans la base de données.
 
