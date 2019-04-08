@@ -20,12 +20,25 @@ On remarque sur l'image ci-dessous une numérotation des pages réalisées en ph
 
 ![](https://image.noelshack.com/fichiers/2019/15/1/1554749036-capture4.png)
 
+Ensuite, nous avons cherché à ajouter la fonctionnalité de pouvoir créer de nouveaux livres et de les insérer dans la base de données.
+
+! [](https://image.noelshack.com/fichiers/2019/15/1/1554749034-capture5.png)
+
+
+
 ### Menu enseignant
+
+L'enseignant, préalablement créée peut donc se connecter au site et avoir accès à divers menus : 
 
 ![](https://image.noelshack.com/fichiers/2019/15/1/1554749032-capture2.png)
 
 
-
+ ### Les éléves
+ 
+ Les éléves dont nous avons ajouter leurs identifants dans la base de données grâce à l'application C# peuvent eux aussi se connecter au site et avoir accès aux quizzs proposés par leurs professeurs.
+ 
+ 
+ ### Diagramme du site
 
 ![](https://raw.githubusercontent.com/AureohDev/RallyeLectureWebApp/master/Github/Schema/schemaDbRallyeLecture.PNG)
 
