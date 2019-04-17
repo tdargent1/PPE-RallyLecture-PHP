@@ -4,9 +4,9 @@ Ce projet réalisé en PHP à l'aide du framework CodeIgniter permet aux enseign
 
 Le projet se divise en 3 parties :
 
-Connexion Administrateur / Utilisateur.
-Gestion des Livres
-Quizz sur les livres.
+* Connexion Administrateur / Utilisateur.
+* Gestion des Livres
+* Quizz sur les livres.
 
 ## Menu admin
 
